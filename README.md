@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-I am Rosyid Mukti Wibowo, an active 5th semester student at the Telkom University Purwokerto of Technology majoring in Software Engineering. I am very interested in technology, especially in Android development.<br>
+I am Rosyid Mukti Wibowo, an active 6th semester student at the Telkom University Purwokerto of Technology majoring in Software Engineering. I am very interested in technology, especially in Android development.<br>
 
 Also active in organizational activities, especially the Google Developer Groups on Campus Telkom University Purwokerto Chapter and I am part of the Android Staff at the Google Developer Groups on Campus Telkom University Purwokerto C&D.<br>
 
-And now I am Bangkit 2024 Batch 2 Cohort - Mobile Development Android Learning Path 📱
+I am graduate from Bangkit 2024 Batch 2 Cohort - Mobile Development Android Learning Path 📱
 
 ### Github Statistic
 <p align="left">
