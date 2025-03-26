@@ -51,8 +51,11 @@ I am graduate from Bangkit 2024 Batch 2 Cohort - Mobile Development Android Lear
 <a href="https://github.com/Rosyidmw">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rosyidmw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rosyidmw&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 </a>
 </p>
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Rosyidmw)
 
 <!--### Reach me on
 - <a href="https://www.linkedin.com/in/rosyidmktwbw/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230a66c2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
