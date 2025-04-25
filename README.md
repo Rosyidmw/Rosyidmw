@@ -41,9 +41,9 @@ I am graduate from Bangkit 2024 Batch 2 Cohort - Mobile Development Android Lear
 
 <!-- <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >-->
 
-| Kotlin | Dart | Jetpack Compose | Flutter | Docker | JavaScript |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://img.icons8.com/color/48/000000/kotlin.png" width="40" height="40"/> | <img src="https://img.icons8.com/color/48/000000/dart.png" width="40" height="40"/> | <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" width="40" height="40"/> | <img src="https://img.icons8.com/color/48/000000/flutter.png" width="40" height="40"/> | <img src="https://img.icons8.com/color/48/000000/docker.png" width="40" height="40"/> | <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/> |
+| Kotlin | Dart | Jetpack Compose | Flutter | Docker | JavaScript | Golang |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://img.icons8.com/color/48/000000/kotlin.png" width="40" height="40"/> | <img src="https://img.icons8.com/color/48/000000/dart.png" width="40" height="40"/> | <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" width="40" height="40"/> | <img src="https://img.icons8.com/color/48/000000/flutter.png" width="40" height="40"/> | <img src="https://img.icons8.com/color/48/000000/docker.png" width="40" height="40"/> | <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/> | <img src="https://img.icons8.com/?size=512&id=44442&format=png" width="40" height="40"/> |
 
 
 ### 📊 Github Statistic
