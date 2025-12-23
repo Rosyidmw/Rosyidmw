@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-I am Rosyid Mukti Wibowo, an active 6th semester student at the Telkom University Purwokerto of Technology majoring in Software Engineering. I am very interested in technology, especially in Android development.<br>
+I am Rosyid Mukti Wibowo, an active 7th semester student at the Telkom University Purwokerto of Technology majoring in Software Engineering. I am very interested in technology, especially in Android development.<br>
 
 Also active in organizational activities, especially the Google Developer Groups on Campus Telkom University Purwokerto Chapter and I am part of the Android Staff at the Google Developer Groups on Campus Telkom University Purwokerto E&D.<br>
 
