@@ -27,9 +27,11 @@ Here are some ideas to get you started:
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-I am Rosyid Mukti Wibowo, an active 7th semester student at the Telkom University Purwokerto of Technology majoring in Software Engineering. I am very interested in technology, especially in Android development.<br>
+I am Rosyid Mukti Wibowo, a 7th-semester Software Engineering student at Telkom University Purwokerto with a strong passion for mobile application development.<br>
 
-Also active in organizational activities, especially the Google Developer Groups on Campus Telkom University Purwokerto Chapter and I am part of the Android Staff at the Google Developer Groups on Campus Telkom University Purwokerto E&D.<br>
+I specialize in building Android applications using Flutter and Kotlin, and I’m currently gaining hands-on experience as a Mobile Developer Intern at Techarea. Previously, I graduated from the Bangkit Academy 2024 Mobile Development cohort, where I strengthened my technical and collaborative skills through real-world projects.<br>
+
+I was also part of GDG on Campus Telkom University Purwokerto (GDG OC TUP) as a Mobile Specialist, where I contributed to sharing knowledge and supporting the local tech community. I’m driven by a desire to create impactful mobile solutions that deliver seamless user experiences and help businesses grow through technology.<br>
 
 I am graduate from Bangkit 2024 Batch 2 Cohort - Mobile Development Android Learning Path 📱
 <br>
