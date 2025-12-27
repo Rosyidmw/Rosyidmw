@@ -31,7 +31,7 @@ I am Rosyid Mukti Wibowo, a 7th-semester Software Engineering student at Telkom 
 
 I specialize in building Android applications using Flutter and Kotlin, and I’m currently gaining hands-on experience as a Mobile Developer Intern at Techarea. Previously, I graduated from the Bangkit Academy 2024 Mobile Development cohort, where I strengthened my technical and collaborative skills through real-world projects.<br>
 
-I was also part of GDG on Campus Telkom University Purwokerto (GDG OC TUP) as a Mobile Specialist, where I contributed to sharing knowledge and supporting the local tech community. I’m driven by a desire to create impactful mobile solutions that deliver seamless user experiences and help businesses grow through technology.<br>
+Previously, I was involved with GDG on Campus Telkom University Purwokerto (GDG OC TUP) as a Mobile Specialist, where I contributed to knowledge sharing and supported the local tech community. I’m driven by a desire to create impactful mobile solutions that deliver seamless user experiences and help businesses grow through technology.<br>
 
 I am graduate from Bangkit 2024 Batch 2 Cohort - Mobile Development Android Learning Path 📱
 <br>
