@@ -76,5 +76,6 @@ I am graduate from Bangkit 2024 Batch 2 Cohort - Mobile Development Android Lear
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 </div>
 
+
 </p>
 
